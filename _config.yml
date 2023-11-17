@@ -3,14 +3,14 @@ title: ZiAzusa Blog
 SEOTitle: 梓漪的博客 | ZiAzusa Blog
 header-img: img/post-bg-desk.jpg
 email: zi@lie.moe
-description: "Every failure is leading towards success."
+description: "Since: 2022.09.10, Hello World."
 keyword: "ZiAzusa, ZiAzusa Blog, 梓漪的博客, lie.moe"
 url: "https://blog.lie.moe"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Ziazusa/blog.lie.moe.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Hello World."
 sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -18,7 +18,7 @@ sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/abou
 
 # SNS settings
 RSS: false
-# weibo_username:     none
+#weibo_username:     none
 #zhihu_username:     none
 github_username:    ZiAzusa
 #facebook_username:  none
@@ -86,7 +86,7 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 2              # 相同标签数量大于这个数，才会出现在首页
 
 
 
