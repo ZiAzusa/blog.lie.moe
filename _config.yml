@@ -1,9 +1,9 @@
 # Site settings
 title: ZiAzusa Blog
-SEOTitle: 梓漪的博客 | ZiAzusa Blog
+SEOTitle: 梓漪的Blog | ZiAzusa Blog
 header-img: img/post-bg-desk.jpg
 email: zi@lie.moe
-description: "梓漪, Since: 2022.09.10, Hello World."
+description: "梓漪, ZiAzusa, Since: 2022.09.10, Hello World."
 keyword: "ZiAzusa, ZiAzusa Blog, 梓漪的博客, lie.moe"
 url: "https://blog.lie.moe"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -61,9 +61,9 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: none                            #生成的clientID
-  clientSecret: none    #生成的clientSecret
+  enable: true    #是否开启Gitalk评论
+  clientID: Iv23lipDQgUU9hY6Ocyy                            #生成的clientID
+  clientSecret: 77a3e4b9537dfd987036782ae58f14e4cffc1275    #生成的clientSecret
   repo: blog.lie.moe    #仓库名称
   owner: ZiAzusa    #github用户名
   admin: ZiAzusa
@@ -98,8 +98,8 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "Lie.Moe",
-        href: "https://lie.moe"
-    }
+    # {
+    #     title: "Lie.Moe",
+    #     href: "https://lie.moe"
+    # }
 ]
