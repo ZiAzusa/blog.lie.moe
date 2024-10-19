@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 77a3e4b9537dfd987036782ae58f14e4cffc1275    #生成的clientSecret
   repo: gitalk.blog.lie.moe    #仓库名称
   labels: 'gitalk'
-  owner: ZiAzusa    #github用户名
+  owner: ZiAzusa             #github用户名
   admin: ZiAzusa
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
