@@ -62,12 +62,12 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: Iv23lipDQgUU9hY6Ocyy                            #生成的clientID
-  clientSecret: 77a3e4b9537dfd987036782ae58f14e4cffc1275    #生成的clientSecret
-  repo: gitalk.blog.lie.moe    #仓库名称
+  clientID: 'Iv23lipDQgUU9hY6Ocyy'                            #生成的clientID
+  clientSecret: 'ab0eeb149a7b318a27511b4628fa1f214c8f2489'    #生成的clientSecret
+  repo: 'gitalk.blog.lie.moe'    #仓库名称
   labels: 'gitalk'
-  owner: ZiAzusa             #github用户名
-  admin: ZiAzusa
+  owner: 'ZiAzusa'             #github用户名
+  admin: 'ZiAzusa'
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
